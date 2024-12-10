@@ -8,6 +8,7 @@ Spring MVC
 Spring Data JPA (Hibernate)
 MySQL
 Thymeleaf
+HTML
 
 
 
